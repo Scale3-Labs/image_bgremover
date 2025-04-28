@@ -7,6 +7,6 @@ numpy==1.26.2
 onnxruntime==1.16.3
 scipy==1.11.4
 tqdm==4.66.1
-aiohttp==3.9.1
+aiohttp==3.10.11
 filetype==1.2.0
 pooch==1.8.0
