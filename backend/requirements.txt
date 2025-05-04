@@ -1,7 +1,7 @@
 fastapi>=0.105.0
 starlette==0.31.0
 uvicorn==0.24.0
-python-multipart==0.0.6
+python-multipart==0.0.18
 pillow==10.1.0
 numpy==1.26.2
 onnxruntime==1.16.3
